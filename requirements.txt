@@ -1,11 +1,11 @@
 pandas==2.2.2
 numpy==1.26.4
-scikit-learn
+scikit-learn>=1.1.0
 scikit-learn-extra
 matplotlib==3.8.4
 seaborn==0.13.2
 folium==0.16.0
-streamlit
+streamlit==1.41.0
 streamlit-folium==0.24.0
 openpyxl==3.1.5 
 xlsxwriter==3.2.3 
